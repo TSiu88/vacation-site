@@ -11,6 +11,7 @@ body{
   background-color: lightgoldenrodyellow;
   color: blueviolet;
   text-align: center;
+  font-family: cursive;
 }
 
 .jumbotron p{
@@ -24,8 +25,19 @@ img{
 }
 .col-md-4{
   text-align: center;
+  color: blueviolet;
 }
 ul{
   text-align: left;
 }
+ h3{
+   font-weight: bold;
+   
+ }
 
+ .panel-title{
+   font-size: 30px;
+   background-color: lavenderblush;
+   color: mediumpurple;
+   text-align: center;
+ }
