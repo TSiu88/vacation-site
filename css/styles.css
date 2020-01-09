@@ -1,0 +1,31 @@
+body{
+  background-color: lavender;
+  padding: 50px;
+}
+
+.well {
+  background-color: lightpink;
+}
+
+.jumbotron{
+  background-color: lightgoldenrodyellow;
+  color: blueviolet;
+  text-align: center;
+}
+
+.jumbotron p{
+  color: darkcyan;
+  font-weight: bold;
+}
+img{
+  width: 200px;
+  height: 200px;
+
+}
+.col-md-4{
+  text-align: center;
+}
+ul{
+  text-align: left;
+}
+
