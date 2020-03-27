@@ -1,5 +1,4 @@
-# _[My First Webpage](https://github.com/TSiu88/vacation-site)_
-#### _[Live Site Link](https://tsiu88.github.io/vacation-site/)_
+# _[Vacation Site](https://github.com/TSiu88/vacation-site)_
 
 #### _First Bootstrap Exercise, 01.09.2020_
 
